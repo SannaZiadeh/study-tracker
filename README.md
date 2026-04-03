@@ -112,5 +112,4 @@ study-tracker/
 ├── index.html                    # ملف HTML الرئيسي
 ├── package.json                  # الاعتماديات
 ├── tailwind.config.js            # إعدادات Tailwind
-├── vercel.json                   # إعدادات النشر على Vercel
 └── README.md                     # توثيق المشروع
