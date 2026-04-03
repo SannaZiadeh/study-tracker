@@ -49,6 +49,13 @@
 - ✅ تصميم متجاوب (جوال، جهاز لوحي، حاسوب)
 
 ---
+<img width="1360" height="638" alt="mainPage" src="https://github.com/user-attachments/assets/253e905c-943c-4d73-9bf4-eaa9faff9893" />
+<img width="1340" height="635" alt="تعليق توضيحي 2026-04-03 195404" src="https://github.com/user-attachments/assets/b772e281-c494-433a-8832-d56995eee495" />
+<img width="1043" height="595" alt="تعليق توضيحي 2026-04-03 195829" src="https://github.com/user-attachments/assets/8121b199-2db6-437d-918e-64b3e3281253" />
+<img width="1366" height="724" alt="تعليق توضيحي 2026-04-03 195740" src="https://github.com/user-attachments/assets/9bea42a2-90bc-4f39-aebe-d5cf843ab21d" />
+<img width="1333" height="621" alt="AddASubject" src="https://github.com/user-attachments/assets/2b8a7ec4-e636-406e-8d36-1c8725f34d50" />
+
+
 
 
 ---
